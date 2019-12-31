@@ -1,2 +1,1 @@
-# backend-bootcamp
-Backend bootcamp content
+bootcamp/README.md
