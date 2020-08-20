@@ -23,7 +23,7 @@ def f1 {
   println( f.getCanonicalPath() )
 }
 f1
-// /home/djo/code/backend-bootcamp
+// /home/djo/code/scala-bootcamp
 ```
 
 While the above code explicitly expresses **how** it works, sometimes we want terser code--that expresses its **intent** directly and cleanly while leaving out some of the implicit machinery.
@@ -38,7 +38,7 @@ def f2 {
   println( "/usr/share/dict/words".getCanonicalPath() )
 }
 f2
-// /home/djo/code/backend-bootcamp
+// /home/djo/code/scala-bootcamp
 // /usr/share/dict/american-english
 ```
 
@@ -149,4 +149,3 @@ Implicit functions and implicit classes are frequently used together to extend S
 * `java.io.File` is nice, but we can make it nicer still.  Use an implicit class to add a directory separator operator to `File`.  For example, one might like to be able to write: `new File("/")/"etc"/"passwd"` to obtain a `File` object pointing to `/etc/passwd`
 
 * Extend your implicit class from the prior example to add `.slurp(): String` and `.spit(content: String): Unit` to `java.io.File` for reading/writing text files.
-

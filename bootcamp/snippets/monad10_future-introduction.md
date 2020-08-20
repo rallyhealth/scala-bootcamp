@@ -170,7 +170,7 @@ We've now explored the main ways to execute code in the background and process t
 
 ## Exercises
 
-These are in increasing level of difficulty and we don't expect every engineer to get all of these answers.  If anything here remains mystifying after playing with these code examples, please ask in the "Backend Bootcamp" Hipchat room.
+These are in increasing level of difficulty and we don't expect every engineer to get all of these answers.  If anything here remains mystifying after playing with these code examples, please ask in the "Scala Bootcamp" chat room.
 
 * As illustrated above, the main way Scala programs process `Future` results is to process those results in a callback and allow the current thread to process to completion.  Why would that be?
 * Change `getInfoToDisplay` so that `getProduct1234Info` throws an exception and examine what happens.  Does `getProduct1234Picture` still execute?  Why or why not?
@@ -193,4 +193,3 @@ val getInfoToDisplay = for {
   (productId, description, picture)
 }
 ```
-

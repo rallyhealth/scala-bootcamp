@@ -6,7 +6,7 @@
 
 # Scala next steps
 
-Having completed Backend Bootcamp, you're ready to branch out into Rally Scala and into understanding Scala more generally.  Here are some resources many have found helpful:
+Having completed Scala Bootcamp, you're ready to branch out into Rally Scala and into understanding Scala more generally.  Here are some resources many have found helpful:
 
 ## Scala Coding Katas
 

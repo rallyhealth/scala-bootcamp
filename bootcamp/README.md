@@ -1,6 +1,6 @@
-# Welcome to Backend Bootcamp!
+# Welcome to Scala Bootcamp!
 
-Backend Bootcamp is an open-source training program developed by Rally Health to help experienced engineers who are new to Scala become productive in approximately two weeks.  If you don't work for Rally, this training can prepare you to do so or at least introduce you to an approach to Scala that we feel is practical and useful.  And if you are a new Rally engineer, welcome!  And enjoy the journey!
+Scala Bootcamp is an open-source training program developed by Rally Health to help experienced engineers who are new to Scala become productive in approximately two weeks.  If you don't work for Rally, this training can prepare you to do so or at least introduce you to an approach to Scala that we feel is practical and useful.  And if you are a new Rally engineer, welcome!  And enjoy the journey!
 
 *(_For guests who aren't Rally employees_: Some of the links under "Now you do it!" resolve to internal Rally resources.)*
 
@@ -12,7 +12,7 @@ This information is organized in unique two-week learning cycles with specific g
 
 ## Tips
 
-* Join the Backend Bootcamp chat room (Rally engineers only)
+* Join the Scala Bootcamp chat room (Rally engineers only)
 * Work with your new hire buddy, your manager and your team
 * Take your time
 * Ask questions
@@ -58,4 +58,3 @@ This information is organized in unique two-week learning cycles with specific g
 * [Scala next steps](/bootcamp/rally/scala-resources-next-steps.md)
 
 </td></tr></table>
-
